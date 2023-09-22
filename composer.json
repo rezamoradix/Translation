@@ -1,0 +1,15 @@
+{
+    "name": "rey/translation",
+    "autoload": {
+        "psr-4": {
+            "Rey\\Translation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Reza Moradi",
+            "email": "rezamoradix@gmail.com"
+        }
+    ],
+    "require": {}
+}
